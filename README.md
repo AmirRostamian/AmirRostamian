@@ -1,5 +1,5 @@
 # 🏄‍♂️ Hi, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Amirreza Rostamian 💻 from Netherlands
-**`Digital Craftsman (Full-Stack Dev with a Product Soul)`**
+**`Digital Craftsman (Full-Stack Engineer with a Product Mindset)`**
 
 I'm an independent full-stack developer turning ideas into real-world digital products one thoughtful line of code at a time. From backend systems to frontend interfaces, I design, architect, and build every layer with care, scalability, and purpose. My work blends engineering discipline with product thinking.
 
