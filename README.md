@@ -1,8 +1,10 @@
 # 🏄‍♂️ Amirreza Rostamian
 
-**`Digital Craftsman (Developer / Product Builder / Design Thinker)`**
+**`Digital Craftsman (Full-Stack Dev with a Product Soul)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 600k subscribers.
+I'm an independent full-stack developer turning ideas into real-world digital products — one thoughtful line of code at a time. From backend systems to frontend interfaces, I design, architect, and build every layer with care, scalability, and purpose. My work blends engineering discipline with product thinking. Whether it's building SaaS platforms, shaping MVPs, or solving technical puzzles, I approach every project from the ground up — from ideation and design to deployment and iteration.
+
+
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
